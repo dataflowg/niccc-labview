@@ -2,7 +2,7 @@
 
 A LabVIEW implementation of the demoscene video *STNICCC2000 Demo* by Oxygene. Inspired by [@lunasorcery](https://twitter.com/lunasorcery)'s [matplotlib version](https://github.com/lunasorcery/niccc-matplotlib). 
 
-View the [full video](), plus the bonus [XY graph version]().
+View the [full video](https://youtu.be/6PW3PxLyY_0), plus the bonus [XY graph version](https://youtu.be/sGN3woZuroY).
 
 ![STNICCC2000 Demo title screen](images/niccc-labview.png?raw=true "STNICCC2000 Demo title screen")
 
